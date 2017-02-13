@@ -1,5 +1,7 @@
 mise en place de la premiere modif du style
 Commande de bug en prod
 modif  nouvelle
-
+modif 
+nouvelle fonction pas encore finalisée
+finalisation de la nouvelle fonction
 
