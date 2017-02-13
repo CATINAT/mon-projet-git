@@ -1,2 +1,4 @@
 mise en place de la premiere modif du style
 modif 
+nouvelle fonction pas encore finalisée
+finalisation de la nouvelle fonction
